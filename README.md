@@ -13,6 +13,9 @@
 to install the libraries use this command:
 
 ```bash
+## Data Preprocessing
+- for prepare images for Convolutional Neural Network (CNN) models, it is essential to resize and scale the images to ensure they are suitable for the model.
+
   pip install 'name of library'
 ```           
 
